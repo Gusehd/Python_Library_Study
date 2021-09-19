@@ -9,5 +9,5 @@ Something useful that you can do with Python
 * Excel - openpyxl
 * Machine_Learning
 * Text_Mining
-* Web_Crawling - beautifulsoup
+* Web_Crawling - beautifulsoup / Selenium
 * Pyqt5
